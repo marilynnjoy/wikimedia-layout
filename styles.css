@@ -1,1 +1,99 @@
 
+.body{
+    border: 100px;
+}
+.thehead {
+
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    border: 100px;
+
+}
+
+.top-text {
+
+    font-size: 19px;
+    font-family: sans-serif;
+    line-height: 145%;
+}
+
+.welcome {
+    float: right;
+    margin-right: 150px;
+}
+#content {
+    margin-left: 160px;
+    margin-right: 50px;
+    margin-top: 50px;
+    border: 100px;
+}
+
+#navimage  {
+    float: left;
+    width:250px;
+    margin: 5px auto;
+    padding-top:10px;
+    padding-bottom: 10px;
+
+}
+
+#pic {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#pic2 {
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+
+#pic3 {
+    padding-top: 30px;
+    padding-bottom: 70px;
+}
+
+#pic4 {
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+
+#pic5 {
+    padding-top: 1px;
+    padding-bottom: 60px;
+}
+
+
+.line-separator{
+    height:1px;
+    background:#717171;
+    margin-top:925px;
+    margin-left:125px;
+    margin-right:125px;
+
+}
+
+.bottom-sentence {
+    float: left;
+    margin-top:1px;
+    margin-left:325px;
+    font-size:12px;
+
+}
+
+#navlist li
+{
+    list-style-type: none;
+    padding-left:300px;
+
+}
+
+.first-side{
+    float: left;
+    margin-left:60px;
+}
+
+.second-side{
+    float: left;
+
+}
